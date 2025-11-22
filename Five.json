@@ -1,10 +1,24 @@
 [
     {
         "pitch": 1,
-        "name": "Land of Hope and Glory"
+        "name": "Land of Hope and Glory",
         "available": true,
-        "id": 9045920251,
+        "id": 1840297040,
         "artist": "Edward Elgar"
+    },
+    {
+        "pitch": 1,
+        "name": "The British Grenadiers",
+        "available": true,
+        "id": 1840296183,
+        "artist": "John Williams"
+    },
+    {
+        "pitch": 1.092,
+        "name": "Battle Hymm of the Republic",
+        "available": true,
+        "id": 1840173099,
+        "artist": "Julia Ward Howe"
     },
     {
         "pitch": 1,
